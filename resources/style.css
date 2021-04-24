@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:wght@400;700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+.flower {
+  background-color: #fd3555;
+}
+
+.blue-sky {
+  background-color: #2a86ba;
+}
+
+.lonely-planet {
+  background-color: #252e33;
+}
+
+.flying-eagle {
+  background-color: #ffb866;
+}
